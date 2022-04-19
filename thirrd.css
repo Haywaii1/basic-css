@@ -1,0 +1,83 @@
+
+#one {border: 100%;
+    border-collapse: collapse;
+    border-width: 40px;
+    background-color: darkcyan;
+    width: 100%;
+    padding: 80px;
+}
+h1 {
+    color: white;
+    font-size: 70px;
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+h2 {
+    color: rgb(134, 69, 69);
+    text-align: center;
+    font-size: 40px;
+}
+
+#image1 {
+    float: left;
+}
+#image2 {
+    width: 200px;
+    height: auto;
+
+}
+h3 {
+    color: lightseagreen;
+    font-size: 40px;
+    text-align: center;
+}
+#two {
+    text-align: center;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    line-height: 1px;
+    
+}
+#three {
+    text-align: center;
+}
+h4 {
+    color: lightseagreen;
+    font-size: 23px;
+    text-align: center;
+}
+#four {
+    text-align: center;
+    margin-top: 1px;
+
+}
+.fiv {
+    margin: 1px 500px;
+    padding: 0px 0px;
+}
+.rad {
+    float: right;
+    margin: 0px 400px;
+}
+.check {
+    float: left;
+    margin: 0px 300px;
+}
+.com {
+    
+}
+#submit_button {
+    border-radius: 3px;
+    border-collapse: collapse;
+    border-color: lightseagreen;
+    padding: 4px;
+    background-color: lightseagreen;
+    color: white;
+}
+#footer {
+    text-align: center;
+    background-color: lightseagreen;
+    padding: 10px 0px;
+}
